@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Nosotros</title>
+  </head>
+  <body>
+    <p>Autor: Emilio Lorenzo</p>
+    <p><img src="../imagenes/nombre.jpg" alt="Emilio Lorenzo"></p>
+    <p>Buscamosgente.com</p>
+    <p>Actividad:Búsqueda de personas</p>
+    <img src="../imagenes/logo1.jpg" alt="Logo de Buscamosgente.com"><br>
+    <p><br>
+    </p>
+  </body>
+</html>
